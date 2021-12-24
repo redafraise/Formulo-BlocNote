@@ -1,7 +1,5 @@
 from tkinter import *
-import urllib.request
 import os
-import time
 from tkinter import filedialog
 from tkinter import messagebox
 
