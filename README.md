@@ -9,3 +9,5 @@ Un bloc note très basique fait par moi meme à l'aide des modules Tkinter et os
 - Os 🚩
 - Tkinter 🚩
 - Time 🚩
+### Fonctionalités / Menus 🌧
+#### Fichier
