@@ -1,7 +1,7 @@
 # Formulo-BlocNote ©
 
 ## Introduction ✔
-Un bloc note très basique fait par moi meme dans le but de pratiquer. 👀
+Un bloc note très basique fait par moi meme dans le but de pratiquer. 
 
 
 ## Informations ✔
