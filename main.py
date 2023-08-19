@@ -81,7 +81,7 @@ def pol(police):
     infos['font']=police
 
 def a_propos():
-    messagebox.showinfo(title='Formulo Bloc Note - A propos', message='Un bloc note très basique fait sous python par Formulaire \na l\'aide des librairies OS et TKINTER dans le but de pratiquer. \nDiscord: Formulaire.#1549\nGithub: https://github.com/formulaire\n\nPs: de prochains ajouts arrivent.')
+    messagebox.showinfo(title='Formulo Bloc Note - A propos', message='Un bloc note très basique fait sous python \na l\'aide des librairies OS et TKINTER dans le but de pratiquer. \nDiscord: formufraise\nGithub: https://github.com/redafraise\n\nPs: de prochains ajouts arrivent.')
 
 def insert_time():
     ti = time.localtime()
